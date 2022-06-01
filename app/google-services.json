@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533956812965",
+    "project_id": "moviles-primavera",
+    "storage_bucket": "moviles-primavera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533956812965:android:f0d91bfe6817abe13f2d4c",
+        "android_client_info": {
+          "package_name": "com.example.basicfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533956812965-ql33ndlpernd2f8m1414pbcru5ae2a62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF7P380zigQFwF-fzUOHDE5B0k9sgc5V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533956812965-ql33ndlpernd2f8m1414pbcru5ae2a62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
